@@ -1,0 +1,12 @@
+﻿  Player.cpp
+  Player2.cpp
+  Score.cpp
+  ball.cpp
+  game.cpp
+C:\Users\Lovedoctor\source\repos\PongGame\game.cpp(301,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lovedoctor\source\repos\PongGame\game.cpp(301,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  startMenu.cpp
+  Generating Code...
+  LINK : C:\Users\Lovedoctor\source\repos\PongGame\bin\PongGamed.exe not found or not built by the last incremental link; performing full link
+  PongGame.vcxproj -> C:\Users\Lovedoctor\source\repos\PongGame\bin\PongGamed.exe
